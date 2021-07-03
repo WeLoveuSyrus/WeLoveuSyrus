@@ -9,19 +9,18 @@
 </p>
 
 # Stats
-![c](https://github-readme-stats.vercel.app/api/top-langs/?username=lxi1400&layout=compact&theme=dark) 
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=WeLoveuSyrus&layout=compact&theme=dark) 
 </br>
-![stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=WeLoveuSyrus&show_icons=true&theme=dark)
 
 # Contact
-lxi#1400 - Discord </br>
-lxi1400 - Snap </br>
-@lxi1400 - Telegram </br>
-@lxi1400 - Instagram </br>
+$Y#8300 - Discord </br>
+$Y#8300 - Snap </br>
+@hbksyrus - Instagram </br>
 
-# lxi#1400
+# $Y#8300
 <p align="center">
-  <a href="https://github.com/lxi1400">
+  <a href="https://github.com/WeLoveuSyrus">
     <img src="https://data.whicdn.com/images/353981537/original.gif"/>
      </a>
 </p>
