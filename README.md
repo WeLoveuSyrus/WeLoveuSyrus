@@ -1,7 +1,27 @@
 # hello , i'm syrus (@weloveusyrus)
 
-<img src="https://images-ext-2.discordapp.net/external/dmR2IKc3zzpIJws_eKxidHWS37b3SvuSy7ZhGS_PzyU/https/media.discordapp.net/attachments/777890741908930621/779229424931438614/image0.gif?width=318&height=401" alt="Avatar" style="border-radius: 75%;">
+# lxi
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeLoveuSyrus&show_icons=true&theme=dark)
+<p align="center">
+  <a href="https://github.com/WeLoveuSyrus">
+    <img src="https://discord.c99.nl/widget/theme-4/637089853397270530.png"/>
+     </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeLoveuSyrus&theme=dark&layout=compact)
+# Stats
+![c](https://github-readme-stats.vercel.app/api/top-langs/?username=lxi1400&layout=compact&theme=dark) 
+</br>
+![stats](https://github-readme-stats.vercel.app/api?username=lxi1400&show_icons=true&theme=dark)
+
+# Contact
+lxi#1400 - Discord </br>
+lxi1400 - Snap </br>
+@lxi1400 - Telegram </br>
+@lxi1400 - Instagram </br>
+
+# lxi#1400
+<p align="center">
+  <a href="https://github.com/lxi1400">
+    <img src="https://data.whicdn.com/images/353981537/original.gif"/>
+     </a>
+</p>
