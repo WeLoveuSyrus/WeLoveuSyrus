@@ -1,6 +1,6 @@
 # hello , i'm syrus (@weloveusyrus)
 
-# lxi
+# 2ksyrus and 2KSY
 
 <p align="center">
   <a href="https://github.com/WeLoveuSyrus">
