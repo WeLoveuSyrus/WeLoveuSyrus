@@ -1,12 +1,18 @@
-# hello , i'm syrus (@weloveusyrus)
-
-# 2ksyrus and 2KSY
-
-<p align="center">
-  <a href="https://github.com/WeLoveuSyrus">
-    <img src="https://discord.c99.nl/widget/theme-4/637089853397270530.png"/>
-     </a>
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 </p>
+<p align="center">
+    weloveusyrus
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=$Y&color=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/410197890993094666.png"/>
+</p>
+<p align="center">
+Currently learning JavaScript
+<p align="center">
+    <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
 
 # Stats
 ![c](https://github-readme-stats.vercel.app/api/top-langs/?username=WeLoveuSyrus&layout=compact&theme=dark) 
