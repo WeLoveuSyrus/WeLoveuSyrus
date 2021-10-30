@@ -23,9 +23,9 @@ Currently learning how to skid
 [youtube]: https://www.youtube.com/channel/UC4mAPtgJIpj40wTkTX-oM2g </br>
 [instagram]: https://www.instagram.com/welovesyrus/ </br>
 
-# $Y#8300
+#WE LOVE SYRUS
 <p align="center">
   <a href="https://github.com/WeLoveuSyrus">
-    <img src="https://data.whicdn.com/images/353981537/original.gif"/>
+    <img src="https://pin.it/2m3LPoj"/>
      </a>
 </p>
