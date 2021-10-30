@@ -26,6 +26,6 @@ Currently learning how to skid
 #WE LOVE SYRUS
 <p align="center">
   <a href="https://github.com/WeLoveuSyrus">
-    <img src="https://pin.it/2m3LPoj"/>
+    <img src="https://i.pinimg.com/564x/d4/4d/7c/d44d7cbcf352ea12f3fc571a353b66cb.jpg"/>
      </a>
 </p>
