@@ -25,24 +25,6 @@ Currently learning how to skid
 
 | <a href="https://github.com/weloveusyrus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=weloveusyrus&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/weloveusyrus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-#### Top Repositories
-
-<a href="https://github.com/weloveusyrus/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weloveusyrus&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=weloveusyrus&repo=weloveusyrus.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/weloveusyrus">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/weloveusyrus/weloveusyrus/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/weloveusyrus/weloveusyrus/master/assets/codesandbox.svg" />
-</a>
 
 # Contact
 [youtube]: https://www.youtube.com/channel/UC4mAPtgJIpj40wTkTX-oM2g </br>
