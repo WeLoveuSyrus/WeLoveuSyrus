@@ -20,10 +20,8 @@ Currently learning how to skid
 ![stats](https://github-readme-stats.vercel.app/api?username=WeLoveuSyrus&show_icons=true&theme=dark)
 
 # Contact
-[youtube]
-$Y#8300 - Discord </br>
-$Y#8300 - Snap </br>
-@hbksyrus - Instagram </br>
+[youtube]: https://www.youtube.com/channel/UC4mAPtgJIpj40wTkTX-oM2g </br>
+[instagram]: https://www.instagram.com/welovesyrus/ </br>
 
 # $Y#8300
 <p align="center">
