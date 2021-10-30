@@ -10,7 +10,7 @@
   <img src="https://discord.c99.nl/widget/theme-3/410197890993094666.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript
+Currently learning how to skid
 <p align="center">
     <a href="https://discord.gg/4nSYqZ8KAA">Discord Server</a>
 
@@ -20,6 +20,7 @@ Currently learning JavaScript
 ![stats](https://github-readme-stats.vercel.app/api?username=WeLoveuSyrus&show_icons=true&theme=dark)
 
 # Contact
+[youtube]
 $Y#8300 - Discord </br>
 $Y#8300 - Snap </br>
 @hbksyrus - Instagram </br>
