@@ -17,7 +17,6 @@ Currently learning how to skid
 # Stats
     <p align="center">  
 ![c](https://github-readme-stats.vercel.app/api/top-langs/?username=WeLoveuSyrus&layout=compact&theme=dark) 
-<p align="center">  
 ![stats](https://github-readme-stats.vercel.app/api?username=WeLoveuSyrus&show_icons=true&theme=dark)
 
 # Contact
