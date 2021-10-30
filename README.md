@@ -4,7 +4,7 @@
 <p align="center">
     weloveusyrus
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=$Y&color=grey">
+<img src="https://komarev.com/ghpvc/?username=weloveusyrus&color=grey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/410197890993094666.png"/>
